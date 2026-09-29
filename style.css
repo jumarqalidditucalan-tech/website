@@ -62,26 +62,4 @@ img {
     top: 0;
     left: 0;
 
-    width: 100%;
-
-    z-index: 1000;
-}
-
-.navbar {
-    width: 100%;
-
-    min-height: 76px;
-
-    padding: 0 5%;
-
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-
-    background: rgba(3, 6, 3, 0.94);
-
-    border-bottom: 1px solid rgba(212, 182, 92, 0.5);
-
-    backdrop-filter: blur(14px);
-    -webkit-backdrop-filter: blur(14px);
-}
+    width: 
